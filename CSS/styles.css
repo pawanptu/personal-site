@@ -3,6 +3,8 @@ body {
      /* text-align: center; */
      font-size: 20px;
      padding: 6% 0% 2% 2%;
+      max-width: 500px;
+     margin: auto;
 }
 #detail{
      padding: 0%;
